@@ -1,0 +1,455 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The upright man's peace at his end open'd in a funeral discourse, Decemb. 18. 1681. upon the death of Mr Martyn, citizen of London. By T. Jacombe, D.D.</title>
+            <author>Jacombe, Thomas, 1622-1687.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 70 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A46360</idno>
+            <idno type="STC">Wing J120</idno>
+            <idno type="STC">ESTC R218744</idno>
+            <idno type="EEBO-CITATION">99830315</idno>
+            <idno type="PROQUEST">99830315</idno>
+            <idno type="VID">34765</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A46360)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34765)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2072:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The upright man's peace at his end open'd in a funeral discourse, Decemb. 18. 1681. upon the death of Mr Martyn, citizen of London. By T. Jacombe, D.D.</title>
+                  <author>Jacombe, Thomas, 1622-1687.</author>
+               </titleStmt>
+               <extent>[6], 32 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Daniel Brown, at the sign of the Black Swan and Bible without Temple-Bar,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With marginal notes.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Martyn, Martin, d. 1681 --  Early works to 1800.</term>
+               <term>Funeral sermons --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34765:1" rendition="simple:additions"/>
+            <p>THE Upright Man's PEACE AT HIS END: Open'd In a <hi>Funeral Diſcourſe, Decemb.</hi> 18. 1681. upon the Death of M<hi rend="sup">r</hi> 
+               <hi>Martyn,</hi> Citizen of <hi>London.</hi>
+            </p>
+            <p>By <hi>T. Jacombe,</hi> D. D.</p>
+            <q>
+               <p>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>— <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. </p>
+               <bibl>Plutarch: <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> P. 476.</bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Daniel Brown,</hi> at the Sign of the <hi>Black Swan</hi> and <hi>Bible</hi> without <hi>Temple-Bar,</hi> 1682.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:34765:2" rendition="simple:additions"/>
+            <pb facs="tcp:34765:2"/>
+            <head>To M<hi rend="sup">rs</hi> 
+               <hi>MARTIN,</hi> the Sor<g ref="char:EOLhyphen"/>rowful Relict of M<hi rend="sup">r</hi> 
+               <hi>MAT<g ref="char:EOLhyphen"/>THEW MARTIN</hi> Citi<g ref="char:EOLhyphen"/>zen of <hi>London,</hi> lately deceaſed.</head>
+            <opener>
+               <salute>My good Friend,</salute>
+            </opener>
+            <p>UPon the late afflictive Breach, which it pleas'd the Holy and Sovereign God to make upon you, in the taking away of your dear Husband; it was your requeſt to me, to Preach upon ſome Subject that might ſuit with this dark Providence. I moſt readily comply'd with you herein; not only to teſtifie my reſpect to the Dead, but alſo (and chiefly) to take the advantage of ſuch an Opportunity to promote the Good of the Living.</p>
+            <p>The Text, (upon which the following Diſcourſe is ingraft<g ref="char:EOLhyphen"/>ed,) was choſe by your ſelf. And could you, or any other, have choſe a better, for ſuch an Occaſion? It being ſo well adapted to the General Caſe of Gods People, and to the Particular Caſe of your dear Husband, both as to Life and Death. 'Tis true, it is a common Text, much beaten, often and often inſiſted upon, upon the like Occaſions: yet, the Matter wrap'd up in it is ſo Weighty and Momentous, as that the frequent handling of it did not in the leaſt diſcourage me, from giving my Thoughts too and Medi<g ref="char:EOLhyphen"/>tations upon it. And indeed, although ſeveral have,
+<pb facs="tcp:34765:3"/>from time to time, been drawing from it; yet it is far from being drawn dry: it being like the Breaſt, which, though often ſuckt, yet remains full; or like the Spring, which, though many Pitchers be put into it, yet by new ſupplies it's ſtill kept from being empty.</p>
+            <p>The Argument, which it leads unto, is very plain, wholly Practical. And accordingly, ſo is this Treatiſe upon it: I hope, none that are judicious and ſerious will deſpiſe it becauſe 'tis ſo: Plain Truths, becauſe ſuch, are diſreliſht only by vitiated and diſtemper'd Palats. 'Tis common Food, not Dainties and Curioſities, that ſuſtain the Natural Life; and ſure, the Spiritual Life does moſt depend upon, is moſt ſupported and ſtrengthned by the plain and eaſie Truths of Religion, in the moſt familiar and intelligible opening and preſſing of them. Wit may pleaſe the Fancy, but it will never reach the Conſcience; abſtruſe and knotty Points may break the Head, ſooner than the Heart: when all is done, 'tis the frequent, plain, powerful inculcating of the moſt known and familiar Truths and Duties of the Goſpel, that muſt bring Souls to God, and Heaven. Oh give me to hear and read, that which tends to further Faith in Chriſt. Real Godlineſs, univer<g ref="char:EOLhyphen"/>ſal Obedience; that, which will promote the holineſs of my Life, the peace and happineſs of my End; let theſe be urg'd and preſs'd upon me, with plainneſs and earneſt<g ref="char:EOLhyphen"/>neſs: This, this is that Preaching which through Gods bleſſing muſt ſave my Soul.</p>
+            <p>This is the thing deſigned in this Sermon; <hi>viz.</hi> to pre<g ref="char:EOLhyphen"/>vail with Sinners to engage in ſerious Piety, in holy and <g ref="char:V">Ʋ</g>pright Walking with God. And what an Incentive have we in the Text hereunto! <hi>The End of that Man is Peace:</hi> Peace? peace in a dying hour? What are a thouſand
+<pb facs="tcp:34765:3"/>Worlds to this! to live in Peace? and then to die in Peace? What higher felicity is the Creature capable of! What have we here to do, to be ſollicitous about? but this, firſt to <hi>live well,</hi> and then to <hi>die well:</hi> all other Things are <hi>merae Nugae,</hi> baubles and trifles in compariſon of theſe. Well, I have here caſt in my poor Mite to further them; oh that it may find acceptance with God, and ſucceſs with Men! (with as many as ſhall peruſe what here is pub<g ref="char:EOLhyphen"/>liſht!</p>
+            <p>But why do I erect a Porch before ſuch an inconſidera<g ref="char:EOLhyphen"/>ble Building? I return to your ſelf<g ref="char:punc">▪</g> After I had done what firſt you deſired, you then would have me Print what I had preached. That troubled me, and brought me into a ſtreight; I being loth to deny, and yet not knowing well how to gratifie. The doing of it, might be ſome kindneſs to you, but then I very well knew therein I ſhould be unkind to other Friends, (whom I had denied in the ſame requeſt, up<g ref="char:EOLhyphen"/>on the ſame Occaſion;) and moſt unkind to my ſelf, in publiſh<g ref="char:EOLhyphen"/>ing a thing ſo raw and indigeſted as this is. But that which drew me to a compliance with you, was, your Rela<g ref="char:EOLhyphen"/>tion, (whom you ſent to me about this) told me, you de<g ref="char:EOLhyphen"/>ſired only a few Printed Copies for your ſelf and your ſpecial Friends; this I thought not my ſelf much concerned to oppoſe.</p>
+            <p>To leſſen my pains, you got a Friend to tranſcribe what I had preached. He moſt accurately had taken in Writing what (upon the Review) I found I had not been ſo accurate in ſpeaking. I peruſed his Tranſcript, mending and altering ſome Expreſſions, (ſo far as Interlining would admit of;) but as to any conſiderable alteration of the Matter, (in ſome neceſſary additions to it,) I could not have the advantage of ſecond Thoughts, (unleſs, I wrote all over again.) So you muſt take it as it is!</p>
+            <pb facs="tcp:34765:4"/>
+            <p>I commend you, and all yours, to the bleſſing of the great God. Praying, that this ſmarting Rod may be ſanctified and ſweetned to you all; that, God will be your God and Portion forever; that, what you have loſt in the ſtream may be abundantly made up to you in the full and never-fail<g ref="char:EOLhyphen"/>ing Fountain; that you may all imitate his holy Example whilſt he lived, and ſo partake of that unſpeakable happi<g ref="char:EOLhyphen"/>neſs which he poſſeſſes now he is dead. So prays</p>
+            <closer>
+               <signed>Your true and faithful Friend to ſerve you, 
+Tho. Jacomb.</signed>
+               <dateline>
+                  <date>Febr. <hi>14. 1682.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="tract">
+            <pb n="1" facs="tcp:34765:4"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>PSALM 37.</hi> v. <hi>37.</hi>
+                  </bibl>
+                  <p>Mark the perfect Man, and behold the Upright, for the End of that Man is Peace.</p>
+               </q>
+            </epigraph>
+            <p>UPON the late ſudden and afflictive Death of Mr. <hi>Martin,</hi> (an excellent and uſefull Member of this Congrega<g ref="char:EOLhyphen"/>tion,) I am deſired to Preach upon this Text: a Text, which from the ſuita<g ref="char:EOLhyphen"/>bleneſs of its Matter, is often inſiſted on upon theſe ſad Occaſions.</p>
+            <p>The principal Deſign and Scope of <hi>David</hi> in this <hi>Pſalm,</hi> is, the quieting and comforting of the Peo<g ref="char:EOLhyphen"/>ple of God, under their own <hi>Afflicted ſtate,</hi> and the <hi>Proſperous ſtate</hi> of the Wicked: (this is the main Argument which he inſiſts upon throughout the <hi>whole Pſalm.</hi>)</p>
+            <p>In order to the more effectual furthering of this Deſign, he Sums up various weighty <hi>Conſiderations;</hi> wherein he ſets forth the Miſery of the Wicked (though they be Proſperous,) and the Happineſs of the Godly (though they be afflicted.) It would take up too much of my time to go over theſe ſe<g ref="char:EOLhyphen"/>veral Conſiderations, as they lie ſcatter'd up and down in the body of the <hi>Pſalm;</hi> I ſhall therefore go
+<pb n="2" facs="tcp:34765:5"/>no further then that One in the Text: <hi>Mark the Perfect Man, and behold the <g ref="char:V">Ʋ</g>pright, for the End of that Man is Peace:</hi> As if <hi>David</hi> had ſaid, You ſee the Godly here for a time exerciſed with many Troubles, many Afflictions, whilſt the Wicked pro<g ref="char:EOLhyphen"/>ſper, and flouriſh in the World; live in Health, Eaſe, and Plenty, in the Affluence of all Creature-com<g ref="char:EOLhyphen"/>forts: But yet, do not think their Condition better than the Condition of the Former, becauſe the God<g ref="char:EOLhyphen"/>ly have the Advantage as to <hi>the End</hi> and Iſſue of all; <hi>their End is Peace.</hi> Sinners ſeem to have the better of it in the <hi>beginning,</hi> but the Saints have the bet<g ref="char:EOLhyphen"/>ter of it in the <hi>End:</hi> Sinners have the bright <hi>Morning,</hi> but then their <hi>Evening</hi> is very Dark; Saints, (on the other hand,) have the dark Morn<g ref="char:EOLhyphen"/>ing, but then <hi>in the Evening all is Light:</hi>
+               <note place="margin">
+                  <hi>Zech.</hi> 14.7.</note> 
+               <hi>Mark the perfect Man, and behold the <g ref="char:V">Ʋ</g>pright, the End</hi> of that Man is good; it is <hi>Peace: But the Tranſgreſ<g ref="char:EOLhyphen"/>ſors ſhall be deſtroy'd together, and the End of the Wicked ſhall be cut off;</hi> (as it follows in the next Verſe.) Here is the comparing of <hi>End</hi> and <hi>End;</hi> and it is a very bleſſed and gracious End to Gods People, their <hi>End is Peace;</hi> but the End of the Wicked, that is very ſad, <hi>the End of the Wicked ſhall be cut off.</hi>
+            </p>
+            <p>Obſerve in the Words, <hi>Three</hi> things:</p>
+            <p n="1">1. The <hi>Subject</hi> ſpoken of; or the Character, Qualification, and Deſcription of the Perſon; the [<hi>Perfect</hi> and the <hi>
+                  <g ref="char:V">Ʋ</g>pright man.</hi>]</p>
+            <p n="2">2. The <hi>Act</hi> requir'd as to this Subject, <hi>[Mark] the Perfect Man,</hi> and <hi>[Behold] the <g ref="char:V">Ʋ</g>pright.</hi>
+            </p>
+            <p n="3">3. The <hi>Ground</hi> or <hi>Reaſon</hi> of this Act; <hi>Mark the Perfect Man:</hi> why is ſuch a Perſon to be taken notice
+<pb n="3" facs="tcp:34765:5"/>of? becauſe <hi>the End of that Man is Peace.</hi> He deſerves to be mark'd and obſerv'd upon this Account, and for this Reaſon. Or (if you pleaſe) you may bring it under the Notion of the <hi>Matter</hi> and <hi>Object</hi> of this <hi>Act: Mark the perfect Man, &amp;c.</hi> What are we to mark, obſerve, and take notice of concerning this Man? why this, that <hi>that End of this Man is Peace;</hi> this is one ſpecial thing to be conſider'd about him.</p>
+            <p>We have <hi>two Obſervations</hi> to handle from the Words.</p>
+            <p n="1">1. Obſ. <hi>That ſuch who are Perfect and <g ref="char:V">Ʋ</g>pright with God, their End is Peace.</hi> Let their Life be what it will, never ſo dark and afflictive, yet their <hi>End is Peace.</hi>
+            </p>
+            <p n="2">2. Obſ. <hi>That this bleſſed Event and Conſequent of <g ref="char:V">Ʋ</g>prightneſs and Perfection, is a thing that ſhould be Mark'd, Obſerv'd, and duly conſider'd by Others: Mark the perfect Man,</hi> &amp;c.</p>
+            <p>I give you theſe Obſervations according to our Reading of the Words; not in the leaſt troubling you with the various <hi>Verſions</hi> of them by the An<g ref="char:EOLhyphen"/>cients. Our Tranſlation ſuits very well with the Original, therefore I keep to that.</p>
+            <p>I begin with the Firſt.</p>
+            <p n="1">Obſ. <hi>Such who are Perfect and <g ref="char:V">Ʋ</g>pright with God, their End is Peace.</hi>
+            </p>
+            <p>In ſpeaking to which, I will
+<list>
+                  <item>1. A little touch upon the <hi>Subject:</hi> and then</item>
+                  <item>2. Come to that (which I deſign moſt to en<g ref="char:EOLhyphen"/>large upon,) to ſhew, that the <hi>End</hi> of this Subject <hi>is Peace.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. For the Subject,<note place="margin">The perfect Man opened.</note> 
+               <hi>[The Perfect Man and the <g ref="char:V">Ʋ</g>p<g ref="char:EOLhyphen"/>right:]</hi> So we render it in the <hi>Concrete,</hi> but ſeveral
+<pb n="4" facs="tcp:34765:6"/>render it in the <hi>Abſtract;</hi> reading it thus, <hi>Keep Per<g ref="char:EOLhyphen"/>feclion, ſlick cloſe to <g ref="char:V">Ʋ</g>prightneſs:</hi> not as we, <hi>Mark the Perfect Man, and behold the <g ref="char:V">Ʋ</g>pright:</hi> (So the <hi>Chaldee,</hi> the <hi>Septuagint, Symmachus, Jerom,</hi> and ſome Others.)</p>
+            <p>Here are Two Words, <hi>Perfect</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>pright;</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> they are Synonymous and aequipoilent Terms, both in this place importing but one and the ſame thing; the <hi>Perfect</hi> is as much as <hi>
+                  <g ref="char:V">Ʋ</g>pright;</hi> and the <hi>
+                  <g ref="char:V">Ʋ</g>pright</hi> as much as <hi>Perfect.</hi>
+            </p>
+            <p>As to the former, it may be queried.</p>
+            <p>Queſt. <hi>Is any Man Perfect in this Life?</hi> Can any be ſaid to be <hi>Perfect</hi> in this Life?</p>
+            <p>
+               <hi>Anſw.</hi> As to the <hi>ſtrict, abſolute,</hi> and <hi>legal</hi> Notion of <hi>Perfection,</hi> ſo there is no Perfection in this Life; ſo, none are Perfect whilſt they are here on Earth. We were in<g ref="char:EOLhyphen"/>deed perfect in the <hi>paſt ſtate</hi> of <hi>Creation,</hi> as God made us at firſt; and we ſhall be perfect again, in the <hi>fu<g ref="char:EOLhyphen"/>ture ſtate</hi> of <hi>Glorification;</hi> but in our <hi>preſent, fallen,</hi> and <hi>middle ſtate,</hi> ſo we are not capable of this Per<g ref="char:EOLhyphen"/>fection; (this ſtrict and legal Perfection.) This lies in full, exact, univerſal, and adaequate Confor<g ref="char:EOLhyphen"/>mity to the whole Law and Will of God; in being freed from all inhaeſion, acts, and mixtures of <hi>Sin,</hi> and in having all the ſeveral <hi>Graces</hi> raiſed up to their higheſt pitch: this is the Perfection of the Law. And who can<note n="*" place="margin">
+                  <hi>Pro.</hi> 20.9. <hi>Eccl.</hi> 7.10.</note> ſay, that in this Life, he comes to this Perfection? He knows but very little of himſelf that dreams of any ſuch Perfection. In this ſence, there never was in the Earth one perfect Man, (excepting <hi>Adam</hi> before he fell; and <hi>that Man, Chriſt Jefus.</hi>)</p>
+            <p>But then there is an <hi>Evangelical Perfection;</hi> that
+<pb n="5" facs="tcp:34765:6"/>which ſpeaks Perfection only in a <hi>qualified</hi> and <hi>Goſpel ſence:</hi> And thus, every Godly Man is a perfect Man, even while he is here on Earth.</p>
+            <p>Take the Explication of this, in Four or Five things:</p>
+            <p n="1">1. He is perfect as to his <hi>Justification.</hi> In the firſt Moment of the Sinners believing, he is <hi>perfectly Juſti<g ref="char:EOLhyphen"/>fied;</hi> his Sin being fully pardoned, his Guilt fully expiated, his Perſon made compleatly and perfect<g ref="char:EOLhyphen"/>ly Righteous, through the Imputation of Chriſts per<g ref="char:EOLhyphen"/>fect Righteouſneſs to him; (for he that hath a per<g ref="char:EOLhyphen"/>fect Righteouſneſs upon him, muſt needs be perfect<g ref="char:EOLhyphen"/>ly Righteous.) <hi>Sanctification,</hi> that is a <hi>progreſſive</hi> Act, that goeth on by little and little, Step by Step, by degrees; but <hi>Juſtification</hi> is of a different Nature. That is a <hi>continued,</hi> but not a <hi>progreſſive</hi> Act. We are not Sanctified all at once; but we are juſtified all <hi>at once.</hi> And all the <hi>ſucceſſive Pardons</hi> that we have of Sin, are but the Effects of one <hi>continued Juſtification,</hi> as that is <hi>particularly applied</hi> and drawn forth. Juſti<g ref="char:EOLhyphen"/>fication is <hi>Simul &amp; ſemel,</hi> altogether and at once, (as the <hi>Schools</hi> ſpeak.)</p>
+            <p n="2">2. A gracious Man alſo is perfect, <hi>in ſome ſence,</hi> as to his <hi>Sanctification:</hi> Not as to the perfection of <hi>De<g ref="char:EOLhyphen"/>grees,</hi> but only as to the Perfection of <hi>Parts.</hi> Every Sanctified Man hath the Perfection of parts, though not of Degrees; the <hi>whole Man</hi> is Sanctified, though not <hi>wholly;</hi> every<note n="*" place="margin">1 <hi>Theſ.</hi> 5.23</note> Power and Faculty in the Soul, hath ſomething of Sanctifying Grace extended to it, and terminated in it. And beſides that, every true Convert hath ſomething of the two <hi>Eſſential</hi> and <hi>Con<g ref="char:EOLhyphen"/>ſtitutive</hi> parts of Sanctification; (<hi>viz. Mortification</hi> and <hi>Vivification;</hi>) and ſo he may be ſaid, to be per<g ref="char:EOLhyphen"/>fect
+<pb n="6" facs="tcp:34765:7"/>with the <hi>Perfection of Parts:</hi> As the New<g ref="char:EOLhyphen"/>born Babe has all the Eſſential parts of a Man, as well as the grown and perfect Man.</p>
+            <p n="3">3. He may be ſaid to be a <hi>perfect Man,</hi> as perfecti<g ref="char:EOLhyphen"/>on is the thing that he <hi>wiſhes, deſires, endeavours, and aſpires after.</hi> All upright Chriſtians are ſenſible of much imperfection; are not ſatisfied with what they <hi>are,</hi> or <hi>have,</hi> cannot take up with their <hi>preſent Attainments,</hi> either in <hi>Grace</hi> or <hi>Comfort:</hi> but they are ever longing, and panting, and labouring after the perfecting of theſe;<note n="*" place="margin">1 <hi>Th.</hi> 3.10.</note> the filling up of the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, what <hi>is lacking</hi> in them. Perfection is the thing they aim at and preſs after. You ſee it in the Apoſtle, 3 <hi>Phil.</hi> 12. <hi>Not as though I had already attained, either were already perfect; but I follow after, if that I may ap<g ref="char:EOLhyphen"/>prehend that for which alſo I am apprehended of Chriſt Jeſus: Brethren, I count not my ſelf to have apprehend<g ref="char:EOLhyphen"/>ed, but this one thing I do, forgetting thoſe things that are behind and reaching towards the things that are be<g ref="char:EOLhyphen"/>fore, I preſs forward,</hi> &amp;c. And ſincere Chriſtians are <hi>dayly growing</hi> up towards this Perfection, as well as <hi>aiming</hi> at it, and <hi>aſpiring</hi> after it, <hi>Job</hi> 17.9. <hi>The Righteous alſo ſhall hold on his way, and he that hath clean Hands ſhall be ſtronger and ſtronger: The Path of the juſt</hi> (ſaith <hi>Solomon</hi>) <hi>is like the ſhining Light, that ſhineth more and more unto the perfect Day,</hi> Prov. 4.18. Thus little Grace is perfect, inaſmuch as it is continually growing up to Perfection.</p>
+            <p n="4">4. Though the Saints are not perfect here on Earth, yet <hi>in Heaven they ſhall be perfect,</hi> It is in<g ref="char:EOLhyphen"/>deed the imperfect Man <hi>here,</hi> but it ſhall be the perfect Man <hi>there.</hi> All our Graces in Heaven ſhall be filled up, elevated, and raiſed to their higheſt
+<pb n="7" facs="tcp:34765:7"/>pitch, and all our Corruptions throughly purged away. In Heaven, <hi>we ſhall know even as we are known;</hi>
+               <note place="margin">1 <hi>Cor.</hi> 13.12.</note> (what an expreſſion is that to hold forth the Perfection of knowledge!) We ſhall love God in Heaven, to the utmoſt of what the Creature can come up unto in Love; (and ſo in the reſt.) <hi>When that which is perfect is come,</hi>
+               <note place="margin">1 <hi>Cor.</hi> 13.10.</note> 
+               <hi>then that which is in part ſhall be done away.—To the Spirits of Juſt Men made perfect.</hi> Heaven is a State of Perfection,<note place="margin">
+                  <hi>Heb.</hi> 12.23.</note> and all that are ſincere ſhall at laſt arrive at that Per<g ref="char:EOLhyphen"/>fection.</p>
+            <p n="5">5. Uprightneſs is perfection, <hi>as God accepts it for Perfection.</hi> In God's Eye, every upright Chriſtian is a perfect Chriſtian. Therefore, they are often link'd together; and the One is exegetical of the Other: Mark the <hi>perfect</hi> Man and behold the <hi>
+                  <g ref="char:V">Ʋ</g>pright;</hi> the Upright and the <hi>Perfect,</hi> are all one; the perfect Man is the Upright Man, and therefore Perfect becauſe Upright. It's ſaid of <hi>Noah,</hi> he was <hi>a juſt Man, and perfect in his Generatior,</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> 6.9.</note> 
+               <hi>and</hi> Noah <hi>walked with God:</hi> Was there no ſin in him? we (know the contrary.) was he perfect in Holineſs? No, but he was <hi>perfect,</hi> in that he <hi>walked with God,</hi> and <hi>was <g ref="char:V">Ʋ</g>pright.</hi> They are again put together in the Character of <hi>Job,</hi> Job 1.1. <hi>That Man was Perfect and <g ref="char:V">Ʋ</g>pright.</hi> Gen. 17.1. <hi>I am God Almighty, walk before me, and be thou Perfect;</hi> (<hi>i. e.</hi> be thou Upright.) <hi>Phil.</hi> 3.15. <hi>Let as many therefore as are Perfect, be thus minded;</hi> (it cannot be ſpoken of any Perfection, other than what is wrap't up in Sincerity.) And this is the meaning of the Words here, <hi>Mark the perfect Man, and behold the <g ref="char:V">Ʋ</g>pright.</hi>
+            </p>
+            <p>It would be a vaſt Subject, particularly to <hi>deſcribe</hi>
+               <pb n="8" facs="tcp:34765:8"/>and <hi>Characterize</hi> this Upright Man; I muſt only touch upon it when I come to the Uſe. So much of the Perſon of whom the Text ſpeaks, <hi>The perfect Man and the <g ref="char:V">Ʋ</g>pright.</hi>
+            </p>
+            <p n="2">2. Secondly,<note place="margin">The Hap<g ref="char:EOLhyphen"/>pineſs of the up<g ref="char:EOLhyphen"/>right Man.</note> I come <hi>to the Happineſs of this Man.</hi> How does it fare with this Man? very well, as well as Heart and Soul can deſire, <hi>The End of that Man is</hi>
+               <note n="*" place="margin">Erit ad Extre<g ref="char:EOLhyphen"/>mum vir pax. <hi>Hie<g ref="char:EOLhyphen"/>ron.</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. <hi>Sym.</hi> Quoniam ſunt reli<g ref="char:EOLhyphen"/>quiae homi<g ref="char:EOLhyphen"/>ni pacifico. <hi>Vulg.</hi>
+               </note> 
+               <hi>Peace.</hi>
+            </p>
+            <p>
+               <hi>We'l conſider this End</hi> in a <hi>threefold Reference,</hi> (ac<g ref="char:EOLhyphen"/>cording to which, there muſt be alſo a threefold Ex<g ref="char:EOLhyphen"/>plication of <hi>the Peace</hi> annexed to it.) It refers,
+<list>
+                  <item>1. <hi>To the final Iſſue of all God's Providential Diſpen<g ref="char:EOLhyphen"/>ſations towards <g ref="char:V">Ʋ</g>pright Perſons.</hi>
+                  </item>
+                  <item>2. <hi>To Death, the End and Period of their Natural Life.</hi>
+                  </item>
+                  <item>3. <hi>To their End, State, and Condition after Death in the World above.</hi> In each of theſe reſpects, the <hi>End</hi> of the Godly upright Man, <hi>is Peace.</hi>
+                  </item>
+               </list>
+            </p>
+            <p n="1">1. As it refers, <hi>to the final Iſſue of all God's Provi<g ref="char:EOLhyphen"/>dential Diſpenſations.</hi> And ſo, the ſence of it will come to this: Good Men, Holy Men, their Condi<g ref="char:EOLhyphen"/>tion here (for a time) may be very dark, afflictive, and troubleſome; God may ſee it good, in his infinite Wiſdom, to exerciſe them with various Afflictions and Trials; the chaſtnings of God may be very ſe<g ref="char:EOLhyphen"/>vere upon them, (<hi>without</hi> and <hi>within.</hi>) Well! yet ſtay but a little, till the <hi>End</hi> come, (<hi>i. e.</hi> till God has done his<note n="*" place="margin">
+                  <hi>Iſ.</hi> 10.12.</note> 
+               <hi>whole work</hi> upon them; till the cloſe of all his Afflictive Providences, till the time is come that he hath ſet for Mercy and Comfort;) and then all is <hi>Peace.</hi> The <hi>End of that Man is Peace,</hi> with reſpect to God's Providences; as God does <hi>End</hi> and <hi>Wind up</hi> all his Pro<g ref="char:EOLhyphen"/>vidential Workings (whatſoever they are) towards him
+<pb n="9" facs="tcp:34765:8"/>in Peace and Comfort: It falls in with that, <hi>Pſal.</hi> 30.5. <hi>Weeping may endure for a Night, but joy cometh in-the Morning.</hi> And with that of the Apoſtle, <hi>Heb.</hi> 12, 11, 12. <hi>No Chaſtening for the preſent ſeemeth to be joyous but grievous; nevertheleſs, afterwards</hi> (at the end,) <hi>it yieldeth the peaceable Fruit of Righteouſneſs unto them that are exerciſed thereby.</hi> You have an ex<g ref="char:EOLhyphen"/>preſſion, <hi>Jam.</hi> 5.11. <hi>Behold, we count them happy which endure,</hi> (that One would think was a very ſtrange counting,) <hi>You have heard of the Patience of</hi> Job, <hi>and have ſeen the end of the Lord, that the Lord is very pitiful, and of tender Mercy.</hi> You have ſeen to what end the Lord brought things with this <hi>Job:</hi> In the beginning of God's dealings with him, he did not appear to be ſo merciful, pityful, and gracious; but when it came to the <hi>End,</hi> when things were brought to the final Iſſue, then he appear'd to be very piti<g ref="char:EOLhyphen"/>ful and compaſſionate towards him; then it was Peace and Comfort to poor afflicted <hi>Job.</hi> It is ſaid of him, <hi>the Lord bleſſed the latter end of</hi> Job <hi>more then his be<g ref="char:EOLhyphen"/>ginning,</hi> Job 42.10. Oh, the Condition of upright Chriſtians, for a time may be very ſtormy and tem<g ref="char:EOLhyphen"/>peſtuous; but in the Cloſe, all is ſerene and calm As I ſaid before, The Morning may be Dark and Cloudy, (nay it may be ſo the whole Day, the whole time of Life,) but yet in the Evening all is Light. Affliction may for a long time be their Lot and Por<g ref="char:EOLhyphen"/>tion, but all ſhall end in Peace. This Explication (I conceive,) doth beſt ſuit with the main Scope of <hi>David</hi> in this <hi>Pſalm;</hi> but becauſe it does not ſo well ſuit with the Providence of God before us this day, I ſhall not further enlarge upon it.</p>
+            <p n="2">2 This <hi>End</hi> here carries a ſpecial reference unto
+<pb n="10" facs="tcp:34765:9"/>
+               <hi>Death, the end and period of Life.</hi> Deut. 32.29. <hi>Oh that they were wiſe, that they underſtood this, that they would con<g ref="char:EOLhyphen"/>ſider their latter end!</hi> Death is our end, it puts an end to Life, (to the Natural and Temporal Life:) When a Manis dying, he is at his great End, his laſt end.</p>
+            <p>Now, <hi>mark the perfect Man, and behold the <g ref="char:V">Ʋ</g>pright, the End of that Man is Peace;</hi> that is, in a dying hour, upon his Bed of pain and ſickneſs, when he is breathing out his laſt Breath, he hath Peace, he dies in Peace.</p>
+            <p>There is a <hi>twofold Peace</hi> that belongs to the godly<g ref="char:EOLhyphen"/>man at <hi>this End.</hi>
+            </p>
+            <p n="1">1. <hi>Peace with God;</hi> (the higheſt, moſt bleſſed and moſt glorious Peace.) <hi>Being juſtified by Faith we have peace with God,</hi> Rom. 5.1. The holy Soul, <hi>lives</hi> in this peace with God, and dies in this Peace with God too. The Wicked live, and die, in a State of en<g ref="char:EOLhyphen"/>mity with God, all along they are Enemies to God, and God an Enemy to them; there's is no Peace, no reconciliation betwixt God and them. But ſincere Chriſtians, both living and dying, have peace with God; they have in Life, a God reconciled to them through Chriſt; and at Death, they go to a reconciled God and Father; not to an angry, an hating, an ho<g ref="char:EOLhyphen"/>ſtile God, but to a pacified and loving God; to a God that is their Friend. Oh this is the great Happineſs of God's People! the End of ſuch is this <hi>Peace.</hi>
+            </p>
+            <p n="2">2. Their end is peace as to <hi>Peace from God.</hi> Peace in themſelves and with themſelves, the Peace of Conſcience;<note place="margin">Gaudium in fine, ſed Gaudium ſine fine. <hi>Bern,</hi>
+               </note> that Peace, which is called the <hi>Peace of God, which paſſeth all underſtanding,</hi> Phil. 4.7. Oh when Death comes to lay his Arreſt, his cold hands upon an upright Chriſtian, when he is going the way
+<pb n="11" facs="tcp:34765:9"/>of all Fleſh, when the Grave is opened and ready to re<g ref="char:EOLhyphen"/>ceive him, when he is juſt dropping into the Houſe of rottenneſs; even then, (through the Grace of God) he has inward Peace, Serenity, and Comfort, The<note n="*" place="margin">
+                  <hi>Plato</hi> in <hi>Phel.</hi> p. 84.</note> Swan ſings and dies, dies ſinging; the godly Man dies rejoycing. <hi>Sampſon</hi> found Hony in the Lyon; ſo 'tis here. <hi>Prov.</hi> 14.32. <hi>But the Righteous hath hope in his Death;</hi> (that Hope that riſeth up to Peace:) <hi>The Wicked is driven away in his Wickedneſs,</hi> (in the former Branch of the Verſe;) God deals with him in a terri<g ref="char:EOLhyphen"/>ble manner, drives his Soul out of his Body whether he will or no: ay, but 'tis not ſo with the godly, <hi>the Righteous hath hope in his Death. There is hope in thine End, Jer.</hi> 31.17. (I do but allude to this Text, for the End in it, is not that which I am at preſent ſpeak<g ref="char:EOLhyphen"/>ing of.) Good old <hi>Simeon,</hi> he died with <hi>this Peace; Lord, now letteſt thou thy Servant depart in Peace:</hi> there might be ſomething ſpecial and peculiar in his caſe;<note place="margin">
+                  <hi>Luke</hi> 2.29.</note> but as to the ſubſtance, ſo it reaches to all Gods People. It is ſaid of <hi>Moſes,</hi> Deut. 34.5. <hi>He died according to the Word of the Lord:</hi> the <hi>Jewiſh Interpreters</hi> carry it, he died <hi>at the Mouth of the Lord;</hi> and they ſay, that (when he came to die) God <hi>kiſſed</hi> out his Soul;<note place="margin">See Bi<g ref="char:EOLhyphen"/>ſhop <hi>Hall.</hi> 1 V. 959.960.</note> he gave in ſuch manifeſtations of his Love and Mercy to him, as that he even kiſt his Soul out of his Body: and ſurely, here was Peace at the End. So it was with <hi>Hezekiah,</hi> 2 <hi>Kings</hi> 20.3. with holy <hi>Paul, I am ready to be offered, and the time of my departure is at hand;</hi> (now ſee his peace,) <hi>I have fought the good Fight,</hi> &amp;c. <hi>Henceforth is laid up for me a Crown,</hi> &amp;c. 2 <hi>Tim.</hi> 4.7.8. So with various Martyrs, (as might be ſhewn in ſeveral Inſtances.)</p>
+            <p>Here three <hi>Queſtions</hi> ſhould be reſolved:
+<pb n="12" facs="tcp:34765:10"/>
+               <list>
+                  <item>1. <hi>Q.</hi> Hath the Upright Man <hi>Peace only at his End? The End of that Man is Peace?</hi> Hath he <hi>no Peace</hi> while he lives, but only when he comes <hi>to die?</hi>
+                  </item>
+                  <item>2. <hi>Hath every <g ref="char:V">Ʋ</g>pright Man this Peace?</hi>
+                  </item>
+                  <item>3. <hi>Is it only the <g ref="char:V">Ʋ</g>pright that have this peace?</hi> Do we not ſee many die with a great deal of Peace, who yet are far from being in the Number of theſe Upright and perfect Ones?</item>
+               </list>
+            </p>
+            <p>But I will rather reſerve the Anſwering of theſe Queſtions to the <hi>Application,</hi> (when I ſhall have firſt finiſh'd the <hi>Doctrinal part.</hi>)</p>
+            <p n="3">3. Laſtly, Take this <hi>End</hi> here, for <hi>the bleſſed State and Condition that follows after Death, in the World above,</hi> And certainly, here's Peace in the higheſt Notion of it! The End of the Perfect Man, is <hi>this Peace.</hi> Gracious Perſons, (ſuch who have feared God, and lived a Holy life,) they die, leave this World, en<g ref="char:EOLhyphen"/>ter upon an everlaſting State: What a kind of State is that? Oh it is a State of Peace! <hi>He ſhall enter into Peace, Iſa.</hi> 57.2. It is not only, he ſhall go out (or die) <hi>in Peace;</hi> that follows in the next Branch, <hi>They ſhall reſt in their Beds, each one walking in his <g ref="char:V">Ʋ</g>prightneſs:</hi>) but he ſhall enter <hi>into Peace,</hi> into a State of Peace. Heaven is ſuch a State, 'tis a place of Peace; and much of the Happineſs of Heaven lies in the Peace that is there en<g ref="char:EOLhyphen"/>joy'd. In the glorified Condition there is nothing but Peace, there all is Peace. Therefore, Peace is often brought in as one great Ingredient into, and Part of, the Heavenly Felicity: 2 <hi>Rom.</hi> 9.10. <hi>Tribula<g ref="char:EOLhyphen"/>tion, and Anguiſh, upon every Soul that doth evil, of the</hi> Jew <hi>firſt, and alſo of the Gentile; but Glory, Honour, and Peace, to every Man that worketh good.</hi> Rom. 8.6. <hi>To be carnally-minded, is Death; but to be ſpiritually-minded,
+<pb n="13" facs="tcp:34765:10"/>is Life and Peace;</hi> it is Peace at preſent, and it ends in Peace, in Heavenly Peace hereafter, <hi>Gal.</hi> 6.16. <hi>As many as walk according to this Rule, Mercy and Peace be upon them, and upon the</hi> Iſrael <hi>of God.</hi>
+            </p>
+            <p>Peace, in the large acceptation of it, takes in all Good whatever: It is the abridgment of all Good, the Sum and Center of all <hi>Felicity.</hi> So the <hi>Jews</hi> us'd it in their Com<g ref="char:EOLhyphen"/>mon Salutations, <hi>Peace be unto you;</hi> (that is, all Good, all Mercy.) Thus Heaven is a State of <hi>Peace,</hi> there being in Heaven the concurrence and poſſeſſion of all good. There's nothing that the Soul of Man (in its utmoſt cravings) can deſire, but it ſhall have it in Heaven. There's not the preſence of the leaſt Evil, nor the abſence of the leaſt Good.</p>
+            <p>Then take this Peace in the <hi>ſtricter Acceptation</hi> of it; ſo the glorified Condition is a Condition of Peace. There is Peace <hi>with God,</hi> Peace <hi>with Men,</hi> and Peace with a Mans <hi>own ſelf</hi> Peace <hi>with God;</hi> Oh there are no breaches with God in Heaven! we have too much of Theſe here, but above there's nothing of them. All is Amity and Peace with God there. Peace <hi>with Men:</hi> how are all the Saints united and agreed there! there's no diſcord or contenti<g ref="char:EOLhyphen"/>on, nothing but Oneneſs, Harmony, and Love. There <hi>Luther</hi> and <hi>Calvin,</hi> the greateſt Diſſenters are fully reconciled. The World is in flames here, but there all theſe ſhall be fully quenched. We that cannot agree now, while upon Earth, ſhall perfectly agree in Heaven; whatever our Differences may be in this lower Region, they ſhall all vaniſh in Heaven; there we all ſhall be of one mind. And 'tis no ſmall part of the happineſs of the godly, to be taken into <hi>this Peace.</hi>) Further, the Saints there have peace <hi>in and
+<pb n="14" facs="tcp:34765:11"/>with themſelves:</hi> All thoſe Paſſions and perturbations of mind that here purſue and vex them, ſhall all there ceaſe; there's no inward Commotions or Storms; all is ſedate and calm within, in the Thoughts and in the Conſcience. Storms are only in the lower Region; there's not the leaſt trouble of Mind in Heaven, the Soul there lives in conſtant Repoſe and Quietneſs. All jarrings, commotions, that are in the Soul here, Hea<g ref="char:EOLhyphen"/>ven frees from: Oh there is Peace!</p>
+            <p>And this Peace, this glorious Peace, is the Upright Mans Portion; <hi>the End of that Man is this peace.</hi> He hath the <hi>beginnings</hi> of it here, but he ſhall have the <hi>completion</hi> and <hi>conſummation</hi> of it there. This Heaven<g ref="char:EOLhyphen"/>ly Peace, (this Peace of the glorified ſtate,) belongs to this Man. Whatſoever inward troubles and di<g ref="char:EOLhyphen"/>ſturbances he may have in this Life, in the Life to come all ſhall be peace; not one ſad Thought to trou<g ref="char:EOLhyphen"/>ble him, not one Temptation to aſſault him, not any Deſertion to afflict him; all peace! all comfort!</p>
+            <p>So much for the <hi>firſt Obſervation,</hi> that <hi>whoever are Perfect and <g ref="char:V">Ʋ</g>pright with God, their End is Peace.</hi> I ſhall ſpeak a little, (and but a little,) to the <hi>Second;</hi> and that is this:</p>
+            <p n="2">2. Obſ. <hi>This bleſſed effect, Event, or Conſequent of <g ref="char:V">Ʋ</g>prightneſs, this happineſs and felicity of <g ref="char:V">Ʋ</g>pright Per<g ref="char:EOLhyphen"/>ſons; is a thing to be marked, taken notice of, and duly conſider'd, by Others. Mark the Perfect Man, and be<g ref="char:EOLhyphen"/>hold the <g ref="char:V">Ʋ</g>pright; i. e.</hi> fix your thoughts upon them, conſider and ponder and weigh with your ſelves, how it is with them; take notice of them with reſpect to their <hi>End,</hi> that it is <hi>Peace.</hi>
+            </p>
+            <p>Two things are imply'd in this Advice:
+<list>
+                  <item>1. The <hi>Notoriety</hi> of the Thing:</item>
+                  <pb n="15" facs="tcp:34765:11"/>
+                  <item>2. The <hi>Valuableneſs</hi> and <hi>Conſiderableneſs</hi> of the Thing:</item>
+               </list>
+            </p>
+            <p n="1">1. The <hi>Notoriety</hi> of the thing. The <hi>Marking</hi> (here directed to,) extends both to the <hi>
+                  <g ref="char:V">Ʋ</g>prightneſs</hi> it ſelf, and alſo to the happy <hi>Conſequent</hi> of that Uprightneſs: and it implies, that both are <hi>Viſible,</hi> lying open to our knowledge and Obſervation. It's true, both of them, in ſome reſpects, are hidden and indiſcernable by us: <hi>Sincerity</hi> lieth deep and hidden in the Heart, is that which God alone can immediately ſee and take notice of. And ſo the <hi>Peace</hi> (that reſults from this Sinceri<g ref="char:EOLhyphen"/>ty,) that too is a ſecret and an hidden thing: As the <hi>Heart</hi> only <hi>knoweth it's own bitterneſs,</hi>
+               <note place="margin">
+                  <hi>Pro.</hi> 14.10. <hi>Rev.</hi> 2.17.</note> ſo the Heart on<g ref="char:EOLhyphen"/>ly knows it's own peace; it's the <hi>hidden Manna</hi> that Upright Perſons have which none know but only they who feel it. But yet this notwithſtanding, there are ſome ſuch <hi>external manifeſtations</hi> and eruptions of both of theſe, as that they may be taken notice of: Other<g ref="char:EOLhyphen"/>wiſe we had never been called upon to <hi>Mark</hi> the Perfect Man, and <hi>Behold</hi> the Upright. Uprightneſs, as it lyeth inwardly in the Heart, God alone ſeeth; but as it ſhewes it ſelf in the <hi>viſible Acts</hi> of Obedience and Holineſs in the Life, ſo we may ſee it alſo. So inward Peace and Comfort. As that is lodg'd and ſeated in the Soul and Conſcience. So he only diſcerns it who enjoys it; but as it breaks forth and vents it ſelf, in ſuch and ſuch Words, Expreſſions and Carriages of living and dying Perſons, ſo the Standers by and the Hearers of it may come to the knowledge of it. It is a thing may be known, there is a notoriety in it; and therefore ehe <hi>Pſalmiſt</hi> commands <hi>Mark,</hi> obſerve, improve your knowledge about this, that the <hi>End</hi> of the perfect Man is <hi>Peace.</hi>
+            </p>
+            <p n="2">
+               <pb n="16" facs="tcp:34765:12"/>
+2. It implies the <hi>importance and obſervableneſs of the thing.</hi> Are any Perſons holy and good? And does it fare ſo well with them at Death? do they reap this Bleſſing upon Upright walking in a dying hour? Oh let all mark, and ſeriouſly conſider this! for it's a thing that deſerves the moſt ſerious Conſideration. And that upon a twofold Account;</p>
+            <p n="1">1. Becauſe <hi>the due marking of this will much tend un<g ref="char:EOLhyphen"/>to, and be a very probable Means, to beget in Others a firm and ſteady belief of the Goodneſs of God himſelf, and of the Goodneſs of the Ways of God.</hi> Has a godly Man this bleſſed Peace when he dies? And a better Peace after his Death, (the peace of Heaven?) Surely this muſt convince Men that God is good, his ways too very good! This would highly vindicate Religion to the World, and take off thoſe prejudices that are in Sinners againſt a holy Life. If they would but mark and take notice of the happy End of thoſe who live it. Holineſs may expoſe Men to Sufferings and Afflictions here (for a time,) but then, ſooner or latter, it will abundantly compenſate and recompence all thoſe ſuf<g ref="char:EOLhyphen"/>ferings and Afflictions by <hi>internal</hi> and <hi>eternal</hi> Peace. Oh how could any be prejudiced againſt Holineſs, did they but believe and obſerve how well it goeth with Gods People in a dying hour,<note place="margin">Conſide<g ref="char:EOLhyphen"/>rate vias eorum qui integrè vi<g ref="char:EOLhyphen"/>vunt, ut diſcatis ex operibus eorum; quia finis viro (tali,) pax. <hi>Raſi</hi> in <hi>Muis</hi> in <hi>Loc.</hi>
+               </note> and after Death? Cer<g ref="char:EOLhyphen"/>tainly, this would ſilence all thoſe Reaſonings that are in Men againſt ſtrict and afflicted Piety; and bring them over to, and fix them in, the Life and Practice of of ſerious godlineſs. Holy <hi>David</hi> brings in the Words upon this Account, (as I ſhew'd at firſt.)</p>
+            <p n="2">2. The Marking and conſidering of this, <hi>would be a very powerful Motive and Incentive to excite others, to imitate the Examples of <g ref="char:V">Ʋ</g>pright Perſons.</hi> To <hi>live</hi>
+               <pb n="17" facs="tcp:34765:12"/>with Peace, (<hi>the Peace of God which paſſeth all underſtanding?</hi> then to <hi>die</hi> in Peace? then to enter <hi>into Peace</hi> in the preſence of God in Heaven? What great and deſirable Bleſſings are theſe! But (I beſeech you,) how are they to be attained? No other way but by Upright and Holy walking with God. <hi>Mark</hi> therefore <hi>the perfect Man,</hi> How? ſo as to tread in his Steps, ſo as to follow his Pattern, ſo as to live as he liveth; and then you may hope to attain to his Peace: Live the Uprightneſs of that Man, and then enjoy the Peace of that Man. This (in ſhort) ſhall ſuffice for the <hi>Second Obſervation:</hi> I come to the Uſe:</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> I. Where firſt, we have a clear view and pro<g ref="char:EOLhyphen"/>ſpect of that <hi>great Difference that is betwixt Saints and Sinners, betwixt the Godly and the Wicked.</hi> The End of the One <hi>is Peace;</hi> is that the End of the Other too? Oh no! the End of the Wicked Man is no Peace; <hi>There is no Peace to the Wicked, ſaith my God:</hi> Mark the <hi>Aſ<g ref="char:EOLhyphen"/>ſertion,</hi> and the <hi>Confirmation thereof; No Peace to the Wicked?</hi> Sinners have quite other Notions, are very hardly brought to believe this; ah but we have it, aſſerted from God's own Mouth, (from which nothing but Truth can proceed,<note place="margin">
+                  <hi>Iſa.</hi> 57.21</note>) <hi>no Peace to the Wicked [ſaith my God].</hi> Oh the End of the Saints is not ſo happy and comfortable, but the End of Sinners is as ſad and mi<g ref="char:EOLhyphen"/>ſerable!</p>
+            <p>I might bring this down, to the <hi>three Explications</hi> of the <hi>End</hi> in the Text.</p>
+            <p n="1">1. Such who live in Sin, it's thus with them as to their <hi>external Condition, they have their beſt at firſt and their worſt at laſt.</hi> Gods People have their worſt at firſt, and their beſt at laſt; Trouble at firſt but Peace at laſt: but it's quite otherwiſe with the ungodly. They <hi>begin</hi> with Mer<g ref="char:EOLhyphen"/>cies
+<pb n="18" facs="tcp:34765:13"/>
+               <note place="margin">
+                  <hi>Pſa.</hi> 73.11.</note> (<hi>proſper in the World,</hi> are not afflicted as others, enjoy Health and Wealth, variety of all Creature-Bleſ<g ref="char:EOLhyphen"/>ſings:) but then they <hi>end</hi> with dreadful Judgments. Their Sweet is ſoon turn'd into Bitter, their Honey into Gall and Wormwood; their Proſperity (often) ends in great Adverſity: Oh there's is a Sting in the tail of all their Bleſſings! And ſo, with reſpect to the <hi>Pro<g ref="char:EOLhyphen"/>vidences</hi> of God towards them, their End is <hi>no Peace.</hi>
+            </p>
+            <p n="2">2. They come <hi>to die;</hi> Death makes its approaches, (which it will do ſooner or later to all of them;) they are caſt upon Beds of Pain and Sickneſs: And how is it with them then? Oh, no Peace! They had not <hi>much</hi> Peace, (indeed <hi>no</hi> true Peace,) in their Health, and while they were in their <hi>beſt State;</hi> but they have leſs when they come to die. We muſt mark, as the Perfect and the Upright Man, ſo alſo the Wicked and the Ungodly man: The former we may mark upon a Comfortable account, <hi>(their End is Peace;)</hi> but the Latter upon a ſad Account, <hi>(their End is trouble.)</hi> Alas, how it it with them in a dying Condition? very bad! How full of Fear are they then! Nay, (where Sin hath been very high, and Conſcience is awakened to pur<g ref="char:EOLhyphen"/>poſe,) how full are they then of inward horrors and terrors! Oh Day and Night they<note n="*" place="margin">
+                  <hi>Iſ</hi> 33.18.</note> 
+               <hi>meditate Terrors,</hi> (according to the Threatning.) How do their guilty Souls quake and tremble in them! Oh, they are in Hell, before they are in Hell! What ſad Reflexi<g ref="char:EOLhyphen"/>ons do they make upon a bad Life! and what torments do they feel in themſelves upon thoſe Reflexions! They ſee they muſt die, but how do they dread to die! They are going to an everlaſting State, and it wounds them thorough and thorough to think what little ground they have to hope, it will be to them a State of Happineſs. What
+<pb n="19" facs="tcp:34765:13"/>dreadful Agonies do they feel in themſelves! crying out, oh, what will become of us to all Eternity? Oh my Soul, my Soul, whither art thou going? How do they wiſh, that they never had been Born, had never ſeen the Light! All their former Hopes and Confidences, now vaniſh: (their <hi>hope is cut off,</hi> and <hi>their Truſt is like the Spiders Web, Job</hi> 8.14.) <hi>Prov.</hi> 10.28. <hi>Prov.</hi> 11.7. They <hi>kindled a Fire,</hi> and for a time <hi>warm'd themſelves with the Sparks</hi> they had from that Fire; but now they hear that dreadful Word from God, <hi>this ſhall ye have of my Hand, ye ſhall lie down in Sorrow,</hi> Iſa. 50.11. This is the diſmal Condition of all that forget God, when Sickneſs and the pangs of Death are upon them.</p>
+            <p n="3">3. For the Future, the Heavenly Peace, the Happineſs, Joy, and tranquillity of the Heavenly State; that they have no ſenſe of, no Title to: It belongs not at all to them;<note place="margin">
+                  <hi>Rom.</hi> 2.9. <hi>Heb.</hi> 10.27.</note> they can look for nothing but <hi>tribulation and anguiſh,</hi> the <hi>fiery indignation</hi> of the Great God, to be their Portion for ever.</p>
+            <p>And now, do not theſe things prove a vaſt difference betwixt the Godly and the Wicked? 'Tis ſad that Sin<g ref="char:EOLhyphen"/>ners will not believe this till they feel it; till their late Conviction of it will be ſo exceeding dreadful. Mark the Upright man, for the end of <hi>[that Man]</hi> is Peace; he is a Man by himſelf in this happy End; it is appropri<g ref="char:EOLhyphen"/>ated and confin'd to himſelf, and is not common to other Perſons. 'Tis <hi>Childrens Bread,</hi> which God ne<g ref="char:EOLhyphen"/>ver caſts to Dogs.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 2. This may put us upon <hi>Examination;</hi> upon ſe<g ref="char:EOLhyphen"/>rious enquiry, <hi>what is our state and courſe?</hi> Are we in the Number of theſe <hi>Perfect,</hi> and <hi>
+                  <g ref="char:V">Ʋ</g>pright</hi> Ones? brought under the Qualifications here mentioned? If we be, then we may hope for Peace; but if not, then there's no expe<g ref="char:EOLhyphen"/>ctation
+<pb n="20" facs="tcp:34765:14"/>of it. Therefore doth it not highly concern us, with the greateſt ſeriouſneſs, to reflect upon our ſelves, to call our ſelves to account about this. Oh what am I? What is my way and Courſe? Am I Upright with God in Heart and Life?<note place="margin">
+                  <hi>Joh.</hi> 1.47.</note> a <hi>Nathaniel,</hi> an <hi>Iſraelite</hi> indeed, one that is <hi>without guile?</hi> ſingle-hearted towards God?</p>
+            <p>To help you in this Trial, know that Uprightneſs may be conſidered either more <hi>largely,</hi> or more <hi>ſtrictly.</hi>
+            </p>
+            <p n="1">1. More <hi>largely,</hi> as it ſtands in oppoſition to all Wickedneſs in General. So the <hi>Antitheſis</hi> lies here in the Words; <hi>Mark the perfect Man, and behold the <g ref="char:V">Ʋ</g>pright,</hi> but <hi>Tranſgreſſors</hi> ſhall be deſtroyed together, and the End of the <hi>Wicked</hi> ſhall be cut off: (the <hi>Tranſ<g ref="char:EOLhyphen"/>greſſors</hi> and <hi>Wicked</hi> are ſet in oppoſition to the Perfect and Upright.) If you take it thus, then the Perfect and Upright Man is the Holy or Godly Man, (in the com<g ref="char:EOLhyphen"/>prehenſive import of that Character.) He is One who loves and lives Holineſs, that walks not <hi>after the Fleſh</hi> but after <hi>the Spirit;</hi> who orders his <hi>Converſation aright,</hi>
+               <note place="margin">
+                  <hi>Rom.</hi> 8.1. <hi>Pſ.</hi> 50.23.</note> according to the Rule of Gods Word; who reſts not in the form of Godlineſs only, but lives up to the power of it; whoſe whole Life is a <hi>continued Walking</hi> with God; who doth not allowedly lie and live in Sin, (in any one known Sin), but he endenvours and ſtrives to come up to an univerſal Conformity, (to the utmoſt of his power and ſtrength,) to the whole revealed Will of God. In a Word, one who is Good and doth Good. Now is it thus with you? Are you thus Holy? Holy <hi>in all manner of Converſation,</hi> if this be your Way and Courſe,<note place="margin">1 <hi>Pet.</hi> 1.13.</note> then your <hi>End ſhall be Peace.</hi> This is the large Notion of Uprightneſs.</p>
+            <p n="2">2. Conſider it more <hi>ſtrictly,</hi> as it is more particular<g ref="char:EOLhyphen"/>ly, ſet in oppoſition to <hi>Hypocriſie.</hi> And ſo the <hi>
+                  <g ref="char:V">Ʋ</g>p<g ref="char:EOLhyphen"/>right
+<pb n="21" facs="tcp:34765:14"/>and Perfect</hi> Man, is one who is not falſe with God but hearty and ſincere: One who is not a mear pretender to Religion, but in-wardly hath the Life and Spirit and power of Religion; One, that is not one thing <hi>without</hi> and an other thing <hi>within,</hi> that hath an Heart and an Heart,<note place="margin">
+                  <hi>Jam.</hi> 1.8.</note> is <hi>double-heart<g ref="char:EOLhyphen"/>ed,</hi> (which is the very Core and Venom of Hypocri<g ref="char:EOLhyphen"/>ſie;) but he is <hi>ſingle hearted</hi> towards God: One, who <hi>inſimplicity and godly ſincerity,</hi>
+               <note place="margin">2 <hi>Cor.</hi> 1.12.</note> 
+               <hi>not with fleſhly Wiſdom,</hi> orders his Converſation in the World. One, that is <hi>ſound in the Statutes of God,</hi>
+               <note place="margin">
+                  <hi>Pſal.</hi> 119.80.</note> (as <hi>David</hi> pray'd he might be;) What he <hi>appears to be</hi> that he <hi>is,</hi> with the external Profeſſion there's an inward Principle in him: The fixed and main bent of his Heart is for God. Are you thus Upright? if ſo, your <hi>End ſhall be Peace;</hi> but the falſe Hypocrite muſt look for no Peace.</p>
+            <p>I ſhould have deſcended to <hi>Particulars,</hi> to have help'd you in this Enquiry: they are very many, but I muſt only ſingle out a few of the great <hi>Marks</hi> and <hi>Eviden<g ref="char:EOLhyphen"/>ces</hi> of Sincerity, without any enlarging upon them.</p>
+            <p n="1">1. <hi>The doing of good from an inward Principle:</hi> The <hi>bare doing of Good,</hi> will not prove a Man to be perfect and Upright; but the doing of Good from an <hi>inward Principal,</hi> that will prove it. As meer motion will not demonſtrate Life; but when that motion is <hi>ab intra,</hi> that demonſtrates Life.</p>
+            <p n="2">2. <hi>The <g ref="char:V">Ʋ</g>niverſality of Obedience.</hi> When a Man is not <hi>partial</hi> in the Commands of God; picking and chuſing in Duties, (ſomething he will do ſomething he will omit: No, but he<note n="*" place="margin">
+                  <hi>Num.</hi> 14.24. <hi>Pſ.</hi> 119.6.</note> 
+               <hi>follows Godly fully,</hi> and has reſpect to <hi>all the Commands of God.</hi>
+            </p>
+            <p n="3">3. <hi>Conſtancy and fixedneſs in what is Good.</hi>
+               <note place="margin">
+                  <hi>Hoſ.</hi> 6.4. <hi>Mat.</hi> 13.21.</note> The Upright man, his Righteouſneſs is not like <hi>the Morning dew</hi> that
+<pb n="22" facs="tcp:34765:15"/>goeth away; not like the Fruit that grew up, but had <hi>Root,</hi> and therefore <hi>dured but a while;</hi> he is one that is uniform, conſtant, and fixed in what is Good.</p>
+            <p n="4">4. <hi>Walking always as under Gods Eye,</hi>
+               <note place="margin">
+                  <hi>Gen.</hi> 17.1.</note> and doing all <hi>as in the ſight of God.</hi>
+            </p>
+            <p n="5">5. <hi>The making of the glory of God the Supreme and ul<g ref="char:EOLhyphen"/>timate End, in all actions; Whether we eat or drink, or whatever we do,</hi>
+               <note place="margin">1 <hi>Cor.</hi> 10.35.</note> 
+               <hi>doing all to the Glory of God.</hi>
+            </p>
+            <p>Here's the Perfect and Upright Man.</p>
+            <list>
+               <item>1. He is one, that whatſoever he doth in the things of God, he doth it from an <hi>inward Principle.</hi>
+               </item>
+               <item>2. He is one that is <hi>
+                     <g ref="char:V">Ʋ</g>niverſal</hi> in his Obedience.</item>
+               <item>3. He is one that is <hi>ſteady</hi> and <hi>perſevering</hi> in the good ways of God.</item>
+               <item>4. He is one, that wherever he is, and whatever he doth, he always looks upon himſelf <hi>as under God's Eye.</hi>
+               </item>
+               <item>5. He is one who in all his Actings, intends and aims at <hi>Gods Glory, as his Supreme End.</hi> (But I am ſtraitned by the Time, and muſt not enlarge upon theſe Heads.)</item>
+            </list>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 3. The third Uſe, ſhall be to excite and urge all to endeavour after the <hi>Qualification</hi> and Character here laid down. I would improve the Opportunity which the preſent ſad Occaſion gives me, to be earneſt with you to labour after Sincerity. Oh, Sirs, I beſeech you Hear, Pray, Read, Meditate, mortifie Corruption, uſe all Means for the attaining of it!</p>
+            <p>What a world of Arguments might I ſet before you, to raiſe and elevate your deſires and endeavours after it! Sathan, Sin, the World, the Fleſh, all have their Arguments againſt it (ſuch as they are;) but they are all weak and fallacious, of no weighth, if compared with the Arguments which I might ſet before you for it.</p>
+            <pb n="23" facs="tcp:34765:15"/>
+            <p>Upright Walking, ſincere Godlineſs, is a thing that God is highly <hi>pleaſed with</hi> and takes ſingular <hi>delight in: Such as are <g ref="char:V">Ʋ</g>pright in the Way, are his delight,</hi> Prov. 11.20.</p>
+            <p>God hath a very <hi>open Hand</hi> and <hi>Heart</hi> to upright Chriſtians; he thinks nothing too much to give to them, or to do for them: <hi>Pſal.</hi> 84.11. <hi>The Lord God is a Sun and a Shield, the Lord will give Grace and Glory, and no good thing will he with-hold from them that walk <g ref="char:V">Ʋ</g>prightly:</hi> (<hi>No good thing?</hi> What a comprehenſive Expreſſion is that!)</p>
+            <p>
+               <hi>Poor</hi> and <hi>Afflicted Sincerity</hi> is infinitely better then <hi>Rich</hi> and <hi>Proſperous Wickedneſs;</hi> (it may not appear ſo at preſent, but it will be found to be ſo at laſt.) <hi>Pro.</hi> 28.<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>6. <hi>Better is the Poor, that walketh in his <g ref="char:V">Ʋ</g>prightneſs, than he that is perverſe in his ways, though he be Rich.</hi> The Upright Man does not only do good to <hi>himſelf,</hi> but to his <hi>Poſterity</hi> alſo; Mercy is entail'd by him upon his Offspring: <hi>Prov.</hi> 20.7. <hi>The juſt Man walketh in his In<g ref="char:EOLhyphen"/>tegrity, and his Seed are bleſſed after him.</hi> Such who are Upright with God, God will be Upright with them; <hi>with the <g ref="char:V">Ʋ</g>pright, thou wilt ſhew thy ſelf <g ref="char:V">Ʋ</g>pright,</hi> Pſal. 18.25.</p>
+            <p>But paſſing by theſe <hi>Motives,</hi> this <hi>One</hi> in the Text (methinks) may be enough to prevail with you to cloſe with and endeavour after Sincerity and real Holi<g ref="char:EOLhyphen"/>neſs. Is the End of the Perfect and Upright Man, <hi>Peace? Such</hi> Peace, (as has been deſcribed?) Oh who would not be <hi>Such a Man,</hi> that he may partake of <hi>Such an End!</hi> Holy <hi>Paul</hi> look't upon all his Suf<g ref="char:EOLhyphen"/>ferings as nothing,<note place="margin">
+                  <hi>Acts</hi> 20.24.</note> if he might but <hi>finiſh his Courſe with joy;</hi> (Such an high Senſe had he of this Peace at his end.) It is precious at all times, but moſt precious
+<pb n="24" facs="tcp:34765:16"/>in a dying hour: Oh when the <hi>King of Terrors,</hi> the moſt terrible of all terribles,<note place="margin">
+                  <hi>Job</hi> 18.24.</note> ſhall approach us; then to be above affrighting Fears, to have all paecate and quiet within? What a bleſſed thing is this! How does it<note n="*" place="margin">Mag<g ref="char:EOLhyphen"/>na res eſt, &amp; diu diſcenda, cum adve<g ref="char:EOLhyphen"/>nerit hora illa inevi<g ref="char:EOLhyphen"/>tabilis, ae<g ref="char:EOLhyphen"/>quo ammo exire. <hi>Sen.</hi> Ep. <hi>30.</hi>
+               </note> concern us all to make ſure of it! The poor beſotted Sinner, who ſlighted this Peace when Death was at a diſtance from him; now upon it's near ap<g ref="char:EOLhyphen"/>proach to him, (if Conſcience be not quite ſeared, and he void of all ſenſe of Eternity,) what would he give for it? had he a Thouſand Worlds at his diſpoſe, he would willingly part with them all for a little of this inward Peace. But (alas,) in his Life he <hi>knew not the way of Peace:</hi> (<hi>Rom.</hi> 3.16.) and therefore in his Death he muſt not have the <hi>Bleſſing of Peace.</hi> What an In<g ref="char:EOLhyphen"/>centive to Holineſs is the <hi>bad End</hi> of <hi>bad Men!</hi> they all ſay,<note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> He<g ref="char:EOLhyphen"/>rodot.</note> 
+               <hi>Whoever looks upon us, let him learn to be Religi<g ref="char:EOLhyphen"/>ous;</hi> (according to the Inſcription upon <hi>Seunacherib</hi>'s Statue or Tomb, in one of the <hi>Aegiptian Temples.</hi>) And can it be otherwiſe with them? Can it be imagined, that he who has lived a Wicked Life ſhould die a comfortable Death? No, no! He that <hi>lives ill,</hi> cannot <hi>die well;</hi> (unleſs it pleaſe God to work ſome great Change at the laſt.) If it be Sin in the Life, (allowed and unrepented of) it will be dread and horror in the Death. 'Twill not be enough for us when we come to die, to wiſh for a peaceable and happy Death, (the Death of God's People;) this <hi>Balaam</hi> did, <hi>Numb.</hi> 23.10. Oh, (ſaith he,) <hi>Let me die the Death of the Righteous, and let my laſt End be like his!</hi> (he knew that to be a good End, and there<g ref="char:EOLhyphen"/>fore he deſir'd that his might be like it; but that would not bring him to the attianment of it.) I ſay 'tis not enough for us barely to <hi>wiſh</hi> for <hi>this End,</hi> but we muſt
+<pb n="25" facs="tcp:34765:16"/>take the right Courſe, and uſe thoſe Means that have a proper tendency to it: (Such as fervent and frequent Prayer, Serious Repentance, thorough Mortification of Sin, Holy and Upright walking with God,) for there's no ſeparating of the Means from the End.</p>
+            <p>Oh that I might this Day prevail with you, with every one of you, to reſolve for ſincere Godlineſs! <hi>Mark the Perfect Man, the End of that Man is Peace;</hi> God ſeems to ſingle out <hi>this Man</hi> from all other Per<g ref="char:EOLhyphen"/>ſons, to lay his Hand upon him, and ſay, Ay this is Man, the only Man who ſhall have Peace: Others may preſume upon it, but this Man only ſhall enjoy it. Here's <hi>Certainty</hi> as to him; and alſo Excluſion as to others: the End of [that Man] is Peace; of that Man <hi>only;</hi> Others are altogether Strangers to it. If thou art not ſuch an one as <hi>that Man,</hi> there will be no Peace for thee at thy End, whenever it ſhall come; (and God knows how ſoon it may come.) Shall we not all endeavour upon this, to be Upright, Holy, and Good? To bid adieu to Sin, <hi>for will not that be bitterneſs in the latter End?</hi> (<hi>As</hi> Abner <hi>ſpake to</hi> Joab <hi>concerning the Sword,</hi> 2 Sam. 2.26.) The Evil of Sin, and the Good of Holineſs, will never be fully underſtood till we come to lie upon a Death-bed. We have ſtrange Notions about Theſe, whilſt all is well with us; judging, there's but <hi>little goodneſs</hi> in the one, but <hi>little Evil</hi> in the other. Ah but Sickneſs and Death will undeceive us, and alter our apprehenſions about them. You that take ſinful, profane Courſes now, how will your Souls wiſh then that you had lived otherwiſe! that you had never been ſo looſe, ſo vain, ſo atheiſtical, ſo debauch and vitious: that you had not ſo prophaned the Sab<g ref="char:EOLhyphen"/>bath, ſo neglected God, lived in ſuch exceſs of Riot, Uncleanneſs, Whoredom, (and whatever is naught:) How wilt thou then cry out, Oh would to God I
+<pb n="26" facs="tcp:34765:17"/>had lived a better Life! That I had not cloſed with Sin as I have done! that I had not oppoſed and de<g ref="char:EOLhyphen"/>rided Holineſs! oh that I had ſpent my Time better! and hearkened to the good Counſel that Miniſters gave me! (and ſo on.) But what will this avail or ſignifie when the Soul ſhall be in this diſtreſs? Nothing at all! Pray think of this, and reform your Courſe be<g ref="char:EOLhyphen"/>fore it be too late.</p>
+            <p>This being the <hi>great Motive</hi> to Sincerity, <hi>(Peace at the End,)</hi> here are <hi>Three Queſtions</hi> to be anſwered;</p>
+            <p n="1">1. <hi>Q.</hi> Hath the Upright, Godly Man, <hi>no Peace be<g ref="char:EOLhyphen"/>fore his End?</hi> Hath he <hi>only</hi> Peace at his Death? None in Life? Is all his Peace and Comfort reſerved for a dying Hour?</p>
+            <p>
+               <hi>Anſw.</hi> Not ſo! He hath peace <hi>in Life</hi> as well as at <hi>Death;</hi> He liveth with it, hath it abiding in him (if he doth not loſe it by ſining againſt God.) <hi>Great Peace have they that love thy Law!</hi> Pſal. 119.165. <hi>The work of Righteouſneſs ſhall be Peace, and the effect of Righte<g ref="char:EOLhyphen"/>ouſneſs, quietneſs and aſſurance for ever,</hi> Iſa. 32.17. <hi>Thou wilt keep him in perfect Peace,</hi> (Hebr. <hi>Peace, Peace,</hi>) <hi>whoſe mind is ſtayed on thee;</hi> Iſa. 26.3. (The perfect Man has perfect Man.) <hi>Peace I leave with you, my Peace I give unto you;</hi> Joh. 14.27.—<hi>Theſe things have I ſpoken that in me ye might have peace,</hi> Joh. 16.33. 2 <hi>Cor.</hi> 6.10. <hi>Yet always rejoycing; A good Conſcience is a Continu<g ref="char:EOLhyphen"/>al Feaſt.</hi>
+            </p>
+            <p>But why then is it ſaid, <hi>the End of that Man is Peace?</hi>
+            </p>
+            <p n="1">1. Becauſe, then <hi>Eſpecially</hi> and <hi>Eminently,</hi> the Peo<g ref="char:EOLhyphen"/>ple of God have <hi>this Peace.</hi> They need it more <hi>then</hi> than at other times; and therefore they have more of it then. Oh when they are grappling with the pangs of Death, juſt launching out into boundleſs Eter<g ref="char:EOLhyphen"/>nity, how do they then want this Peace! Wherefore, then the gracious God vouchſafes it to them; in an higher degree than before.</p>
+            <pb n="27" facs="tcp:34765:17"/>
+            <p n="2">2. Becauſe, then their Peace is of the <hi>greateſt uſe and efficacy, to work on Others;</hi> to draw them in to God, and to make them think well of his Ways. Therefore it pleaſes God ſometimes to let his People be without this Peace in their Life time; becauſe then it would not ſo much be taken notice of: but when they come to die, when many Eyes are upon them, to obſerve what comfort they have then, then they have it. And by this, Spectators are brought to judge well both of the <hi>Perſons,</hi> and alſo of the Practices of theſe that are ſo full of Comfort in ſuch a time of need.</p>
+            <p n="2">2. <hi>Q. Have all <g ref="char:V">Ʋ</g>pright Souls this Peace at their End?</hi> Is the <hi>End</hi> of <hi>every Godly Man,</hi> Peace? Do <hi>all</hi> ſuch, when they come to die, die with this Comfort?</p>
+            <p>
+               <hi>Anſw.</hi> I dare not ſay ſo! I have reaſon to believe, that many live without this Peace, and die too without this Peace, who yet are truly Gracious. Some want it in Life, but then (poſſibly) they have it at Death; (As the Martyr, <hi>Now he is come, he is come.</hi>) Some have it in Life, but then want it when they come to die; God (at the laſt) withdrawing their Peace, and cauſing their Sun to ſet in a dark Cloud: (thus it ſometimes fares with ſome, whoſe Grace here, and Salvation hereafter, I dare not queſtion.) Others go without it, in the <hi>ſenſible part</hi> of it, both in life and in Death, (that's fad indeed!) True <hi>Grace</hi> is in their Hearts, but yet this <hi>Peace</hi> from God is not in their Hearts. It pleaſes God very much to ſhew his Sove<g ref="char:EOLhyphen"/>raignty, in his various dealings with his People as to ſenſible Comfort.</p>
+            <p>But then, this we may ſay as to every Sincere and Upright Chriſtian.</p>
+            <p n="1">1. <hi>Ordinarily</hi> and <hi>commonly</hi> he has this Peace at his End: 'tis but now and then that God varies his Method in this.</p>
+            <p n="2">2. <hi>The root of this Peace is in him, although he may not-have the Bloſſoms of it; Light is ſown for the Righte<g ref="char:EOLhyphen"/>ous,
+<pb n="28" facs="tcp:34765:18"/>and gladneſs for the <g ref="char:V">Ʋ</g>pright in heart,</hi> Pſal. 97.11.</p>
+            <p n="3">3. He hath <hi>Faith to rely upon Chriſt in a dying hour</hi> though he may not have <hi>the Peace</hi> and <hi>comfortable ef<g ref="char:EOLhyphen"/>fects</hi> of Faith then. Oh though he is much in the dark, yet he cleaves to Chriſt, holds faſt upon Chriſt, and goes out of the World with this <hi>[If I periſh, here I will periſh.]</hi> Oh (ſays he) I have little Peace, Light, and Comfort; but I dye reſting upon Chriſt; let God do with me, what he pleaſes.</p>
+            <p n="4">4. Whenever God denies this Peace to dying Up<g ref="char:EOLhyphen"/>right Perſons, it is <hi>for ſome ſpecial Reaſons;</hi> he deſigns ſome <hi>other way to glorifie himſelf:</hi> And if he will glorifie himſelf <hi>any way,</hi> though that Way may be painful to us, we muſt ſubmit to it.</p>
+            <p n="5">5. If it be not Peace <hi>in Death,</hi> it ſhall certainly be Peace juſt <hi>after Death.</hi> It may be Trouble in a dying hour, even to the Godly; but as ſoon as ever Death has done it's Work, I am ſure then they have Peace. Thou mayſt die without it, but in Heaven thou ſhalt certainly have it. As ſoon as ever the Soul is out of the Body, it is fill'd with Peace.</p>
+            <p n="3">3. <hi>Q. Is this the End of that Man only?</hi> Is Peace limited and peculiar to <hi>that Man?</hi> Do not we daily ſee, many Sinners and wicked Perſons die in Peace? They go out of the World like Lambs, (as we commonly ex<g ref="char:EOLhyphen"/>preſs it;) have no troubles, no commotions, no diſtur<g ref="char:EOLhyphen"/>bance at all upon their Spirits; all is quiet. Wherefore then is it made ſuch a ſpecial and peculiar Priviledge in the Text to the Upright?</p>
+            <p>
+               <hi>Anſw.</hi> I deny what is alledg'd. The Perſons (ſpoken of) may have a <hi>ſeeming,</hi> an <hi>imaginary</hi> Peace; but aſ<g ref="char:EOLhyphen"/>ſuredly they have no real and true Peace. There's a vaſt difference between the real Peace of a godly Man, and the Counterfeit Peace of Sinners, in a dying hour: The Peace of the One, is but ſtupidity, inſenſibleneſs,
+<pb n="29" facs="tcp:34765:18"/>ſecurity, and preſumption; but the Peace of the Other, is a <hi>well-grounded Peace;</hi> Peace rightly bottom'd upon the due application of Gods Mercy in Chriſt, and upon the faithful Teſtimony of an enlighten'd Conſcience: It is quite otherwiſe in the Peace of the preſumptuous Sinner, that dies quietly though he hath lived wick<g ref="char:EOLhyphen"/>edly. We ſee many a Man is faſt aſleep in his Bed, un<g ref="char:EOLhyphen"/>concern'd, undiſturb'd, even when his Houſe is on Fire, and he is juſt ready to drop into the Flames: Or he is at Sea in a Storm, yet inſenſible of any danger, though the Waves threaten to ſwallow him up every Moment. Such a thing is the <hi>Peace</hi> of theſe Men; all is quiet with<g ref="char:EOLhyphen"/>in, when (alas) there is but one poor breath between them and Hell. They are dropping into Eternal Flames, but they ſee not their danger; and therefore are without trouble. But the Peace here promiſed to the Godly Man, is a quite other Peace, a real Peace, not a <hi>flaſhy</hi> Peace; a <hi>well-grounded</hi> Peace, not a <hi>preſumptuous</hi> Peace. And fuch Peace, the Godly only have at their End; they only are within that bleſſed<note n="*" place="margin">
+                  <hi>Pſ.</hi> 85.10</note> Link, <hi>Mercy and Truth are met together, Righteouſneſs and Peace have kiſſed each other.</hi>
+            </p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 4. I Should (in the laſt place,) have turn'd my Diſcourſe to theſe <hi>Perfect and <g ref="char:V">Ʋ</g>pright</hi> Perſons. Three things I ſhould have urged upon you who are ſuch.</p>
+            <p n="1">1. <hi>To admire and adore the Goodneſs of God.</hi> Oh that it ſhould pleaſe him to reward imperfect Grace, im<g ref="char:EOLhyphen"/>perfect Obedience, imperfect Holineſs, with this <hi>bleſ<g ref="char:EOLhyphen"/>ſed Peace!</hi> Not only with Peace in Life, but in Death too! Ay and with that Peace too which infinitely ſur<g ref="char:EOLhyphen"/>paſſeth what we have here, (the Heavenly peace,) what matter of admiration is this! The <hi>End of that Man is Peace;</hi> but why ſo? not from any Merit or Worthi<g ref="char:EOLhyphen"/>neſs in him, or in his Holineſs, Uprightneſs; but meerly from the infinite dignation and grace of God. Oh let him be adored for this by all Saints!</p>
+            <pb n="30" facs="tcp:34765:19"/>
+            <p n="2">2. <hi>To preſevere in upright Walking with God.</hi> You are in a good way; oh hold on it! You ſhall not loſe by an Holy life; ſincerity ſhall not be in vain to you; you ſhall be a Gainer by it while you live, when you come to die, and then in Heaven to all Eternity. <hi>Pro.</hi> 23.18. <hi>Surely there is an End, and thine expectation ſhall not be cut off:</hi> There is <hi>an End,</hi> this end by Death is ſure and certain; and whenever it ſhall come, thine <hi>expectation ſhall not be cut off;</hi> thy hope in God, as for other good, ſo for inward Peace, ſhall be accompliſht, oh hold on in the good ways of God!</p>
+            <p n="3">3. <hi>Be as chearſul as ever you can.</hi> Living or dying, let this Peace that you have, be made as viſible to Others as may be. As your light of <hi>Grace</hi> ſhould ſhine forth, ſo your light of <hi>Comfort</hi> ſhould ſhine forth too. Let it appear,<note place="margin">Male vi<g ref="char:EOLhyphen"/>vit, quiſ<g ref="char:EOLhyphen"/>quis neſcit benè mori. Sen. de Tranq.</note> you have liv'd well by dying well; Men are to <hi>mark</hi> and obſerve you in your Courſe, and in your End, (that <hi>your End is Peace:</hi>) if you walk dejectedly, live and die dejectedly; what will become of this <hi>marking?</hi> What will Men have to obſerve about you, to make them in love with Religion? Oh (amongſt other things) you muſt improve your Peace for God, to credit his Service and Ways! (But I muſt not fur<g ref="char:EOLhyphen"/>ther ſtay upon theſe things!)</p>
+            <p>I would ſay ſomething upon the ſad Occaſion that is before us, the Death of a worthy Member of this So<g ref="char:EOLhyphen"/>ciety, Mr. <hi>Martin:</hi> I think I may ſay, with a great deal of Confidence, this Scripture was verified in him. He was indeed an Upright and Perfect Man; a truly pious Man, one that was very ſincere in his Profeſſion. I have known him long (ſomewhat above Forty Years,) and in all my knowledge and obſervation of him, (abat<g ref="char:EOLhyphen"/>ing humane infirmities,) I never ſaw any thing in his Converſation or Carriage, but what did ſpeake him a
+<pb n="31" facs="tcp:34765:19"/>down-right Godly Man. In his Calling, in his Truſts, in his Relations, in all the perſonal Duties of Religion, he carried it like one that did ſincerely fear God: (this many of you know as well as my ſelf.)</p>
+            <p>And I queſtion not, but when Death made its ſei<g ref="char:EOLhyphen"/>zure upon him, (which it did very ſuddenly, for it diſpatched him in one Night. and a ſew hours in the Morning; juſt about the time, when he uſed to come hither to wait upon God in his Ordinances, he went to Heaven:) But I ſay, at his Death and End, I queſti<g ref="char:EOLhyphen"/>on not but he had this Peace: In the midſt of all his Pains and Agonies (which indeed were very ſharp,) yet all was quiet and calm within. And I do leſs que<g ref="char:EOLhyphen"/>ſtion, but that he is entred into the <hi>Heavenly Peace.</hi> Oh he is there, in the full fruition of God and of all Good in God, receiving a full Anſwer to all his Prayers, reap<g ref="char:EOLhyphen"/>ing the fruit and benefit of all his Holy walking with God. He fully knows, what the Peace of Heaven is, of which we have been ſpeaking but very imperfectly this day. Well, his <hi>Life was good,</hi> and his <hi>End was good;</hi> and what can I ſay more! and what can you expect or deſire more.</p>
+            <p>Let this comfort us, under this very ſudden, and very afflictive ſtroak of Providence. You eſpecially, his near and dear Relations, let it comfort you. Your Loſs, is his Gain; Your loſs is great, his gain is far greater; you have loſt the Comfort of a Creature, but he is full of Comfort in the enjoying the ever-bleſſed God. Be you <hi>at Peace,</hi> in this reſpect; <hi>i. e.</hi> be patient, quiet, ſubmiſſive; conſidering, who has made this breach upon you, and what a bleſſed ſtate your near and dear Relation is now put into: He is not loſt, but ad<g ref="char:EOLhyphen"/>vanc'd. <hi>Cur doles, ſi periiſſe non credis? Tertull.</hi>
+            </p>
+            <p>We, in this Congregation, have a great loſs; being
+<pb n="32" facs="tcp:34765:20"/>depriv'd of one that was diſcreet and prudent, conſidera<g ref="char:EOLhyphen"/>bly active and uſeful to us upon many Accounts) Let me hereupon, commend three things to you:</p>
+            <p n="1">1. Pray to God that <hi>he will make up this breach:</hi> That now when ſuch a <hi>Mnaſon,</hi> ſuch an old Diſciple of Chriſt is taken away, it would pleaſe God to work upon ſome <hi>Young Ones</hi> in his room, to bring them in to God. It's ſad to ſee how many old Profeſſors die, and we have but few young Converts brought in, to ſucceed them in what is good. If the old Plants be pluckt up, and there be no young Ones ſet in their ſtead, the Planta<g ref="char:EOLhyphen"/>tion is like to come to nothing.</p>
+            <p n="2">2. <hi>Let the ſuddenneſs</hi> of his Death, <hi>quicken</hi> and <hi>awaken you to a ſpeedy and ſerious preparation for your own Death.</hi> He was in all appearance, in very good Health a few hours before he died;<note place="margin">In hoc fal<g ref="char:EOLhyphen"/>limus nur quod moriem proſpici<g ref="char:EOLhyphen"/>mus. <hi>Sen.</hi> Ep. <hi>1.</hi> ad <hi>Lucil.</hi>
+               </note> he went to Bed well, but never came out of it more; no ſooner was he laid down in it to ſleep, but violent pains ſurpriz'd him which put a ſpee<g ref="char:EOLhyphen"/>dy Period to his Life. Oh Sirs! are we prepared for ſuch a ſudden Change? Shall we have ſuch <hi>Memento</hi>'s of our frailty, and yet be ſecure? We cannot aſſure our ſelves of a long ſickneſs, that Death will make its <hi>ſlower ſteps</hi> towards us; we may be cut off in a Night, yea in a Moment, oh let us always watch and be ready!</p>
+            <p n="3">3. Let us <hi>follow the good Example</hi> of this good and Holy Man; that living as he did, we may die as he did; and experience this as to our ſelves, that <hi>our End is Peace.</hi> May we but <hi>ſo live,</hi> and <hi>ſo die,</hi> we ſhall not need much fear to die. God make us all wiſe unto Salvation.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:34765:20"/>
+         </div>
+      </body>
+   </text>
+</TEI>
